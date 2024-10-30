@@ -1,0 +1,35 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color light_green
+color white
+drawable baseline_lock_24
+drawable baseline_password_24
+drawable bkg
+drawable edittext_bkg
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable mainicon
+drawable tab_bkg
+drawable user
+drawable viewpager_bkg
+id btDangNhap
+id login_password
+id login_user2
+id signup_confirmpassword
+id signup_password
+id signup_user
+id tab_layout
+id view_pager
+layout activity_main
+layout activity_main_home
+layout fragment_login_tab_fagment
+layout fragment_signup_tab
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string hello_blank_fragment
+style Base.Theme.MyApplication
+style Theme.MyApplication
+xml backup_rules
+xml data_extraction_rules
